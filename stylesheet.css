@@ -72,7 +72,7 @@ header {
     list-style: none;
     text-align: center;
     text-align: left;
-    float: left;
+    
 }
 
 .fa {
@@ -82,6 +82,7 @@ header {
     text-align: center;
     text-decoration: none;
     margin: 5px 2px;
+    float: left;
   }
 
 .fa-facebook {
