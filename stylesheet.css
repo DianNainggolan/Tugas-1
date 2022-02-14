@@ -40,7 +40,17 @@ header {
 }
 
 .profile{
-    padding: 80px 0 20px 0;
-    background-color: #caaeaa;
+    padding: 80px 5% 40px 5%;
+    background-color: #caaeaad0;
     background-size: cover;
+    text-align: center;
+}
+
+.item{
+    float: left;
+    width: 35%;
+}
+
+.photo{
+    margin: 0 5% 0 5%;
 }
