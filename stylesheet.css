@@ -45,7 +45,7 @@ header {
     padding-bottom: 80px;
     padding-left: 5%;
     padding-right: 5%;
-    background-color: #c2c2c2;
+    background-color: #d6d6d6;
     background-size: cover;
     text-align:left;
     align-items: center;
@@ -54,7 +54,13 @@ header {
 .item{
     float: left;
     width: 35%;
-    padding: 1% 5%;
+    padding: 0 5%;
     height: 500px;
 }
+
+.sosial-bar{
+    height: 2%;
+    color: white;
+}
+
 
