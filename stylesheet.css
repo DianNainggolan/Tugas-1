@@ -15,6 +15,16 @@ body {
     margin: 0 auto;
 }  
 
+header {
+    height: 65px;
+    width: 100%;
+    background-color: #721305;
+    opacity: 0.9;
+    position :fixed;
+    top: 0;
+    z-index: 10;
+}
+
 .header-left {
     float: left;
 }  
