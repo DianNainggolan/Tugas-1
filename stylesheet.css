@@ -32,9 +32,15 @@ header {
 .header-left p{
     color: #ead4c7;
     margin-top: 20px;
-    font-size: 150%;
+    font-size: 180%;
 }
 
 .header-left span{
     color: #721305;
+}
+
+.profile{
+    padding: 80px 0 20px 0;
+    background-color: #ccb1add0;
+    background-size: cover;
 }
