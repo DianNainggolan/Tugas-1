@@ -15,6 +15,7 @@ body {
     margin: 0 auto;
 }  
 
+
 header {
     height: 65px;
     width: 100%;
@@ -40,6 +41,7 @@ header {
     color: #721305;
 }
 
+/*Data diri*/
 .profile{
     padding-top: 100px;
     padding-bottom: 80px;
@@ -59,8 +61,16 @@ header {
 }
 
 .sosial-bar{
-    height: 5%;
-    color: rgb(0, 0, 0);
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    margin-top: 20px;
+    text-align: left;
 }
 
 
+
+/*Pencapaian*/
+
+/*Target*/
