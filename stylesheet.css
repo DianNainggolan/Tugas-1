@@ -43,6 +43,7 @@ header {
 
 /*Data diri*/
 .profile{
+    height: 600px;
     padding-top: 100px;
     padding-bottom: 80px;
     padding-left: 5%;
