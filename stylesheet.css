@@ -63,6 +63,8 @@ header {
 }
 
 .sosial-bar{
+    color: white;
+    height: 5px;
     list-style: none;
     text-align: center;
     margin-top: 20px;
