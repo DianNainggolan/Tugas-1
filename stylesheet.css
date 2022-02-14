@@ -19,8 +19,8 @@ body {
 header {
     height: 65px;
     width: 100%;
-    background-color: #cf6e36;
-    opacity: 0.8;
+    background-color: #363f39;
+    opacity: 0.7;
     position :fixed;
     top: 0;
     z-index: 10;
@@ -31,7 +31,7 @@ header {
 }  
 
 .header-left p{
-    color: #ffffff;
+    color: #ead4c7;
     margin-top: 20px;
     font-size: 200%;
     font-weight: bold;
@@ -43,7 +43,7 @@ header {
 
 /*Data diri*/
 .profile{
-    height: 600px;
+    height: 700px;
     padding-top: 100px;
     padding-bottom: 80px;
     padding-left: 5%;
