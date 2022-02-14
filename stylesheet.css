@@ -18,7 +18,7 @@ body {
 header {
     height: 65px;
     width: 100%;
-    background-color: #721305;
+    background-color: #c16630;
     opacity: 0.9;
     position :fixed;
     top: 0;
@@ -33,4 +33,8 @@ header {
     color: #ead4c7;
     margin-top: 20px;
     font-size: 150%;
+}
+
+.header-left span{
+    color: #721305;
 }
