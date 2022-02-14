@@ -66,9 +66,6 @@ header {
     border-bottom: 2px solid #721305;
   }
 
-.section-title span{
-    color: #721305;
-}
 .sosial-bar{
     color: white;
     height: 5px;
@@ -76,6 +73,9 @@ header {
     text-align:left;
     text-align: left;
     
+}
+.span{
+    color: #721305;
 }
 
 .fa {
