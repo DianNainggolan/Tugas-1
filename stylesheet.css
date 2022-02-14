@@ -74,9 +74,7 @@ header {
     text-align: left;
     
 }
-.span{
-    color: #721305;
-}
+
 
 .fa {
     padding: 20px;
@@ -85,7 +83,11 @@ header {
     text-align: center;
     text-decoration: none;
     float: left;
-  }
+}
+
+.fa:hover {
+    opacity: 0.7;
+}  
 
 .fa-facebook {
     background: #3B5998;
