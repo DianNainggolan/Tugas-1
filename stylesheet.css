@@ -115,6 +115,13 @@ header {
     padding: 2% 5%;
 }
 
+.box{
+    background-color: #ccb1ad;
+    padding: 5%;
+    width: 75%;
+    border-radius: 25px;
+}
+
 /*Target*/
 .goal{
     padding: 2% 5%;
