@@ -32,7 +32,8 @@ header {
 .header-left p{
     color: #ffffff;
     margin-top: 20px;
-    font-size: 180%;
+    font-size: 200%;
+    font-weight: bold;
 }
 
 .header-left span{
