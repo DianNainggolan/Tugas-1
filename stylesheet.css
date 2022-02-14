@@ -112,12 +112,12 @@ header {
 /*Pencapaian*/
 .achievement{
     background-color: #aeb7b1;
-    padding:auto;
+    padding: 2% 5%;
     
 }
 
 .box{
-    margin-top: 5%;
+    margin: 5%;
     background-color: #ccb1ad;
     padding: 5%;
     width: 80%;
