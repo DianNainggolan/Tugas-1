@@ -62,6 +62,10 @@ header {
     align-items: center;
 }
 
+.h2{
+    border-bottom: order-bottom: 2px solid #721305;;
+}
+
 .sosial-bar{
     color: white;
     height: 5px;
