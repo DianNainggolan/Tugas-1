@@ -37,7 +37,7 @@ header {
     font-weight: bold;
 }
 
-.header-left span{
+.span{
     color: #721305;
 }
 
@@ -63,11 +63,11 @@ header {
 }
 
 .h2{
-    border-bottom: order-bottom: 2px solid #721305;;
+    border-bottom: order-bottom: 2px solid #721305;
 }
 
-.sosial-bar{
-    color: white;
+.social-bar{
+    color : white;
     height: 5px;
     list-style: none;
     text-align: center;
