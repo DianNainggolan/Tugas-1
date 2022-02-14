@@ -123,7 +123,7 @@ header {
 
 @media all and (max-width: 1000px) {
     .profile{
-    height: 1000px;
+    height: 1400px;
     }
     .item {
       width: 100%;
