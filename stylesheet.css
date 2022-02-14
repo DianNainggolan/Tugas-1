@@ -111,7 +111,7 @@ header {
 
 /*Pencapaian*/
 .achievement{
-    background-color: #ead4c7;
+    background: color #aeb7b1;;
     padding: 2% 5%;
 }
 
@@ -123,7 +123,7 @@ header {
 
 @media all and (max-width: 1000px) {
     .profile{
-    height: 1400px;
+    height: 1200px;
     }
     .item {
       width: 100%;
