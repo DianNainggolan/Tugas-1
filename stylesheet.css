@@ -112,10 +112,22 @@ header {
 /*Pencapaian*/
 .achievement{
     background-color: #ead4c7;
-    padding: 5% 5%;
+    padding: 2% 5%;
 }
 
 /*Target*/
 .goal{
- 
+    padding: 2% 5%;
 }
+
+
+@media all and (max-width: 1000px) {
+    .item {
+      width: 25%;
+      margin-bottom: 50px;
+}
+
+@media all and (max-width: 670px) {
+    .item {
+      width: 100%;
+    }
