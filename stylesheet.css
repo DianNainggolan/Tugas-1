@@ -111,10 +111,11 @@ header {
 
 /*Pencapaian*/
 .achievement{
-
+    background-color: #ead4c7;
+    padding: 10% 5%;
 }
 
 /*Target*/
 .goal{
-
+ 
 }
