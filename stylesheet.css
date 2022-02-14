@@ -62,9 +62,9 @@ header {
     align-items: center;
 }
 
-.h2{
+..section-title {
     border-bottom: 2px solid #721305;
-}
+  }
 
 .sosial-bar{
     color: white;
