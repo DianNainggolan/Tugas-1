@@ -40,7 +40,10 @@ header {
 }
 
 .profile{
-    padding: 80px 5% 40px 5%;
+    padding-top: 100px;
+    padding-bottom: 80px;
+    padding-left: 5%;
+    padding-right: 5%;
     background-color: #aeb7b1;
     background-size: cover;
     text-align:left;
