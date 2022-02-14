@@ -18,7 +18,7 @@ body {
 header {
     height: 65px;
     width: 100%;
-    background-color: #c16630;
+    background-color: #cf6e36;
     opacity: 0.8;
     position :fixed;
     top: 0;
@@ -53,7 +53,7 @@ header {
 .item{
     float: left;
     width: 35%;
-    background-color: #ead4c7;
+    background-color: #e9dbd4;
 }
 
 .photo{
